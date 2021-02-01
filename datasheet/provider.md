@@ -18,6 +18,9 @@
 - [盛辉电子（国际）有限公司](http://www.lcdmaker.com)
   <br>Product Prefix Code: `TINK-`
 
+- [无锡威峰科技股份有限公司](http://www.wf-tech.com)
+  <br>Product Prefix Code: `WF`
+
 - [Riverdi](https://riverdi.com)
   <br>Product Prefix Code: `RiEPD-`
 
